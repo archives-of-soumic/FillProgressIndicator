@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FillProgressIndicator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FillProgressIndicator_jar</output-path>
+    <root id="archive" name="FillProgressIndicator.jar">
+      <element id="module-output" name="FillProgressIndicator" />
+    </root>
+  </artifact>
+</component>
